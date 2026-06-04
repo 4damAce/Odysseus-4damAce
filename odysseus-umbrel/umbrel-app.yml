@@ -1,0 +1,31 @@
+manifestVersion: 4
+id: odysseus
+category: AI
+name: Odysseus
+version: 1.0.0
+tagline: GPU-powered AI research agent bridge
+description: >-
+  Reverse proxy bridge to Odysseus running on your PC with RTX 3090 GPU acceleration.
+  Access your AI research agent from your home network.
+  Your PC does all GPU computation while Umbrel acts as a bridge.
+icon: https://avatars.githubusercontent.com/u/229018391?v=4
+maintainers:
+  - name: 4dam
+    link: https://github.com/4damAce
+developers:
+  - name: Strigo
+    link: https://github.com/strigo/odysseus
+releaseNotes: Initial Umbrel app - reverse proxy to PC with GPU acceleration
+repo: https://github.com/yourusername/odysseus-umbrel-app
+support: https://github.com/4damAce/Odysseus-4damAce/issues
+website: https://github.com/strigo/odysseus
+gallery: []
+permissions:
+  - name: Network access
+    description: Connects to Odysseus on your PC via local network
+dependencies: []
+path: /
+port: 7861
+torOnly: false
+mainnet: true
+testnet: true
