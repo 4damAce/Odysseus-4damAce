@@ -9,10 +9,10 @@ description: >-
   Access your AI research agent from your home network.
   Your PC does all GPU computation while Umbrel acts as a bridge.
 icon: https://avatars.githubusercontent.com/u/229018391?v=4
-maintainers:
+maintainers:4dam
   - name: 4dam
     link: https://github.com/4damAce
-developers:
+developers:4dam
   - name: Strigo
     link: https://github.com/strigo/odysseus
 releaseNotes: Initial Umbrel app - reverse proxy to PC with GPU acceleration
