@@ -24,13 +24,13 @@ A lightweight reverse proxy app for Umbrel that bridges access to Odysseus runni
 **Your PC (Direct - unchanged):**
 ```
 http://127.0.0.1:7860
-Login: admin / ravatfamily
+
 ```
 
 **From Umbrel (through app):**
 ```
 http://192.168.8.227:7861
-Login: admin / ravatfamily
+
 ```
 
 ## How It Works
